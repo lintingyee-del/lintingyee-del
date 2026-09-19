@@ -14,7 +14,7 @@
 <h3>About</h3>
 
 <ul>
-  <li>🔭 EconCS learner working on mechanism design, algorithmic game theory, and the economics of blockchains and economics of AGI.</li>
+  <li>🔭 EconCS researcher working on mechanism design, algorithmic game theory, and the economics of blockchains and economics of AGI.</li>
 </ul>
 
 <h3>Research areas</h3>

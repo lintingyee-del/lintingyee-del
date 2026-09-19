@@ -2,7 +2,7 @@
 <h1 align="center">Hi, I'm Hayashi</h1>
 
 <p align="center">
-  <a href="https://github.com/lintingyee-del"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1200&color=2F81F7&center=true&vCenter=true&repeat=true&width=760&height=44&lines=Economic+theory+%C3%97+algorithmic+game+theory;Mechanism+design+for+blockchains+and+LLM+agents;Empirical+law+and+economics+with+court+records;Proofs+that+compile%3A+SymPy+%E2%86%92+Z3+%E2%86%92+Lean+4" alt="Economic theory × algorithmic game theory"></a>
+  <a href="https://github.com/lintingyee-del"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1200&color=2F81F7&center=true&vCenter=true&repeat=true&width=760&height=44&lines=Econ+%C3%97+CS" alt="Econ × CS"></a>
 </p>
 
 <p align="center">
@@ -27,6 +27,7 @@
     <td valign="top" align="center">
       <img height="26" src="https://img.shields.io/badge/Algorithmic_Game_Theory-1f6feb?style=for-the-badge" alt="Algorithmic Game Theory">
       <img height="26" src="https://img.shields.io/badge/MEV_%26_Transaction_Ordering-1f6feb?style=for-the-badge&logo=ethereum&logoColor=white" alt="MEV and Transaction Ordering">
+      <img height="26" src="https://img.shields.io/badge/LLM_Post--Training_%26_Social_Choice-1f6feb?style=for-the-badge" alt="LLM Post-Training and Social Choice">
     </td>
     <td valign="top" align="center">
       <img height="26" src="https://img.shields.io/badge/Mechanism_Design-8250df?style=for-the-badge" alt="Mechanism Design">

@@ -10,6 +10,10 @@ on:
   schedule:
     - cron: "0 18 * * *"   # 02:00 Asia/Shanghai
   workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - ".github/workflows/metrics.yml"
 
 jobs:
   metrics:

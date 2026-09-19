@@ -6,7 +6,6 @@
 </p>
 
 <p align="center">
-  <a href="https://adrasteialabs.org"><img height="28" src="https://img.shields.io/badge/adrasteialabs.org-0b0b0b?style=for-the-badge&logo=vercel&logoColor=white" alt="website"></a>
   <a href="https://github.com/lintingyee-del?tab=followers"><img height="28" src="https://img.shields.io/github/followers/lintingyee-del?style=for-the-badge&logo=github&color=1f6feb&label=followers" alt="followers"></a>
   <img height="28" src="https://komarev.com/ghpvc/?username=lintingyee-del&style=for-the-badge&color=6f42c1&label=profile+views" alt="profile views">
 </p>

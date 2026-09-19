@@ -3,8 +3,8 @@ name: Metrics
 # Needs a repository secret METRICS_TOKEN: a classic personal access token
 # with the public_repo and read:user scopes. Until the secret exists every
 # step is skipped, the run stays green, and the README keeps the metrics
-# section hidden. After adding the secret, trigger the first run by hand
-# from the Actions tab (Run workflow) or wait for the nightly schedule.
+# section hidden. The job runs nightly, on demand from the Actions tab
+# (Run workflow), and whenever this file changes.
 
 on:
   schedule:

@@ -14,19 +14,30 @@
 <h3>About</h3>
 
 <ul>
-  <li>🔭 Economic theorist working on mechanism design, algorithmic game theory, and the economics of blockchains and AI agents.</li>
+  <li>🔭 EconCS learner working on mechanism design, algorithmic game theory, and the economics of blockchains and economics of AGI.</li>
 </ul>
 
 <h3>Research areas</h3>
 
-<p>
-  <img height="26" src="https://img.shields.io/badge/Mechanism_Design-1f6feb?style=for-the-badge" alt="Mechanism Design">
-  <img height="26" src="https://img.shields.io/badge/Algorithmic_Game_Theory-1f6feb?style=for-the-badge" alt="Algorithmic Game Theory">
-  <img height="26" src="https://img.shields.io/badge/Market_Design-1f6feb?style=for-the-badge" alt="Market Design">
-  <img height="26" src="https://img.shields.io/badge/Information_Economics-1f6feb?style=for-the-badge" alt="Information Economics">
-  <img height="26" src="https://img.shields.io/badge/Blockchain_Economics-8250df?style=for-the-badge&logo=ethereum&logoColor=white" alt="Blockchain Economics">
-  <img height="26" src="https://img.shields.io/badge/MEV_%26_Transaction_Ordering-8250df?style=for-the-badge" alt="MEV and Transaction Ordering">
-</p>
+<table>
+  <tr>
+    <th width="50%">CS side</th>
+    <th width="50%">Econ side</th>
+  </tr>
+  <tr>
+    <td valign="top" align="center">
+      <img height="26" src="https://img.shields.io/badge/Algorithmic_Game_Theory-1f6feb?style=for-the-badge" alt="Algorithmic Game Theory">
+      <img height="26" src="https://img.shields.io/badge/MEV_%26_Transaction_Ordering-1f6feb?style=for-the-badge&logo=ethereum&logoColor=white" alt="MEV and Transaction Ordering">
+    </td>
+    <td valign="top" align="center">
+      <img height="26" src="https://img.shields.io/badge/Mechanism_Design-8250df?style=for-the-badge" alt="Mechanism Design">
+      <img height="26" src="https://img.shields.io/badge/Market_Design-8250df?style=for-the-badge" alt="Market Design">
+      <img height="26" src="https://img.shields.io/badge/Information_Economics-8250df?style=for-the-badge" alt="Information Economics">
+      <img height="26" src="https://img.shields.io/badge/Blockchain_Economics-8250df?style=for-the-badge" alt="Blockchain Economics">
+      <img height="26" src="https://img.shields.io/badge/Economics_of_AGI-8250df?style=for-the-badge" alt="Economics of AGI">
+    </td>
+  </tr>
+</table>
 
 <h3>Toolchain</h3>
 

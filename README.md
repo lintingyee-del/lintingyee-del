@@ -31,7 +31,6 @@
     </td>
     <td valign="top" align="center">
       <img height="26" src="https://img.shields.io/badge/Mechanism_Design-8250df?style=for-the-badge" alt="Mechanism Design">
-      <img height="26" src="https://img.shields.io/badge/Market_Design-8250df?style=for-the-badge" alt="Market Design">
       <img height="26" src="https://img.shields.io/badge/Information_Economics-8250df?style=for-the-badge" alt="Information Economics">
       <img height="26" src="https://img.shields.io/badge/Blockchain_Economics-8250df?style=for-the-badge" alt="Blockchain Economics">
       <img height="26" src="https://img.shields.io/badge/Economics_of_AGI-8250df?style=for-the-badge" alt="Economics of AGI">

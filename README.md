@@ -15,10 +15,6 @@
 
 <ul>
   <li>🔭 Economic theorist working on mechanism design, algorithmic game theory, and the economics of blockchains and AI agents.</li>
-  <li>📊 On the empirical side: law and economics built on large corpora of Chinese court records.</li>
-  <li>🧮 Theorems get a machine check before they get a paragraph: numerical probes, then SymPy, then Z3/cvc5, then Lean 4 where it pays off.</li>
-  <li>🤖 I build agent workflows (Claude Code, Codex) for proof verification, refereeing, and paper production.</li>
-  <li>🌐 <a href="https://adrasteialabs.org">adrasteialabs.org</a></li>
 </ul>
 
 <h3>Research areas</h3>
@@ -30,8 +26,6 @@
   <img height="26" src="https://img.shields.io/badge/Information_Economics-1f6feb?style=for-the-badge" alt="Information Economics">
   <img height="26" src="https://img.shields.io/badge/Blockchain_Economics-8250df?style=for-the-badge&logo=ethereum&logoColor=white" alt="Blockchain Economics">
   <img height="26" src="https://img.shields.io/badge/MEV_%26_Transaction_Ordering-8250df?style=for-the-badge" alt="MEV and Transaction Ordering">
-  <img height="26" src="https://img.shields.io/badge/AI_Agents_%26_Collusion-8250df?style=for-the-badge" alt="AI Agents and Collusion">
-  <img height="26" src="https://img.shields.io/badge/Law_%26_Economics-bf3989?style=for-the-badge" alt="Law and Economics">
 </p>
 
 <h3>Toolchain</h3>
